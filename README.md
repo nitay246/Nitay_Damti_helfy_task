@@ -17,6 +17,7 @@ PUT	/:id	Update a task	{ ...fields to update }
 DELETE	/:id	Delete a task	-
 PATCH	/:id/toggle	Toggle completion status
 
+## Estimeted times
 Backend API	~0.5 Hours
 Frontend Core & State	~2 Hours
 Carousel Implementation	~0.5 Hours (Complex Logic)
