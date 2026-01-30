@@ -1,0 +1,21 @@
+/* The window */
+.carousel-window {
+    max-width: 500px;
+    margin: 0 auto; /* centering */
+    overflow: hidden; /* hide the excessive */
+    border-radius: 10px; /* "rounded" shape */
+    border: 2px solid; /* window limit */
+}
+/* The line */
+
+.carousel-track {
+    display: flex;
+    width: 100%;
+    
+}
+
+/* The item */
+.carousel-item {
+    min-width: 100%;
+    
+}
