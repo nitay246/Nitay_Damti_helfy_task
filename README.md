@@ -31,3 +31,12 @@ Frontend Core & State	~2 Hours
 Carousel Implementation	~0.5 Hours (Complex Logic)
 
 Styling & Polish	~1 Hour
+
+
+Due to the **4-hour time constraint**, I made the following prioritization decisions:
+
+1.  **Functionality over Styling:**
+    My primary focus was on implementing the core logic, backend connection, and React state management. I prioritized a working application over design.
+
+2.  **Carousel Implementation:**
+    The carousel logic is implemented using React state and CSS transitions. Due to time limitations, the "infinite loop" animation is functional but requires further polish to be perfectly seamless. I am aware of the logic required to fix this, but I prioritized delivering the other mandatory features first.
